@@ -1,16 +1,16 @@
-### Hi there 👋
+### 我是一个简单的切图工程师
 
-<!--
-**mowtwo/mowtwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+type Skill = string
+interface SimpleDeveloper {
+  skills:Skill[];
+}
+const mowtow:SimpleDeveloper = {
+  skills:[
+    'JavaScript','TypeScript','Pug','Scss', //language｜编程语言
+    'Vue2','Vue3','React16', //developer framework｜开发框架
+    'Webpack', //developer tools｜开发工具
+    'Photoshop', //any others｜其他
+  ]
+}
+```
