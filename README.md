@@ -12,8 +12,8 @@ interface Human {
 const mowtow:SimpleDeveloper&Human = {
   skills:[
     'JavaScript','TypeScript','Pug','Scss', //language｜编程语言
-    'Vue2','Vue3','React16', //developer framework｜开发框架
-    'Webpack', //developer tools｜开发工具
+    'Vue2','Vue3','React16','Mobx','Taro3', //developer framework｜开发框架
+    'Webpack','Vite2', //developer tools｜开发工具
     'Photoshop', //any others｜其他
   ],
   age: 22,
