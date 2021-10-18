@@ -21,3 +21,6 @@ const mowtow:SimpleDeveloper&Human = {
   gender:['male']
 }
 ```
+
+![stat](https://github-readme-stats.vercel.app/api?username=mowtwo)
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mowtwo&layout=compact)
