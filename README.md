@@ -17,7 +17,7 @@ const mowtow:SimpleDeveloper&Human = {
     'Webpack','Vite2', //developer tools｜开发工具
     'Photoshop', //any others｜其他
   ],
-  age: 22,
+  age: 23,
   gender:['male']
 }
 ```
