@@ -13,7 +13,7 @@ const mowtow:SimpleDeveloper&Human = {
   skills:[
     'JavaScript','TypeScript','ReScript','Pug','Scss', //language｜编程语言
     'Vue2','Vue3','Vue-Router','React16','Svelte', //developer framework｜开发框架
-    'Express','NestJS','TypeORM', //Back-end|后端
+    'Express','NestJS','TypeORM','Midway2', //Back-end|后端
     'Webpack','Vite2','Rollup','Snowpack', //developer tools｜开发工具
     'Photoshop', //any others｜其他
   ],
