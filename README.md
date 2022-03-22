@@ -11,11 +11,11 @@ interface Human {
 }
 const mowtow:SimpleDeveloper&Human = {
   skills:[
-    'JavaScript','TypeScript','ReScript','Pug','Scss', //language｜编程语言
-    'Vue2','Vue3','Vue-Router','React16','Svelte', //developer framework｜开发框架
-    'Express','NestJS','TypeORM','Midway2', //Back-end|后端
-    'Webpack','Vite2','Rollup','Snowpack', //developer tools｜开发工具
-    'Photoshop', //any others｜其他
+    'JavaScript','TypeScript','ReScript','Pug','Scss', //编程语言
+    'Vue2','Vue3','React16','Svelte', //开发框架
+    'Express','NestJS','TypeORM','Midway2', //后端
+    'Webpack','Vite2','Rollup','Snowpack', //工具
+    'Photoshop', //其他
   ],
   age: 23,
   gender:['male']
