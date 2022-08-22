@@ -1,4 +1,4 @@
-### 我是一个简单的切图工程师
+### 切图仔的自我修养
 
 > **主页**:[https://mowtwo.com](https://mowtwo.com)  
 > **博客**:[https://mowtwo.world](https://mowtwo.world)
