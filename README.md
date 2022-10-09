@@ -5,7 +5,7 @@
 
 #### 现在在用
 
-Vue Vite Svelte ReScript
+Vue Vite Svelte React ReScript
 
 #### 希望学会
 Rust Go
