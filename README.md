@@ -1,7 +1,8 @@
 ### 切图仔的自我修养
 
-**[mowtwo.com](https://mowtwo.com)**  
-**[mowtwo.world](https://mowtwo.world)**
+**[M2的小世界](https://mowtwo.com)**
+|
+**[快来围观M2的爱情旅程](https://love.mowtwo.com)**
 
 #### 现在在用
 
