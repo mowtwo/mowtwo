@@ -1,14 +1,3 @@
-### 切图仔的自我修养
-
-**[M2的小世界](https://mowtwo.com)**
-|
-**[快来围观M2的爱情旅程](https://love.mowtwo.com)**
-
-#### 现在在用
-
-Vue Vite Svelte React ReScript
-
-#### 希望学会
-Rust Go
-
-<img alt="snake" src="https://raw.githubusercontent.com/mowtwo/mowtwo/e02244409f36f107b2202ca03d5819600c2b6b56/assets/github-contribution-grid-snake.svg" style="width: 100%;"/>
+## 不想努力了
+写代码写的头晕眼花，有空不如多陪陪家人。
+兄弟们，代码不是一切，靠代码改变阶级的人少之又少，如果你的目标不是成为一个伟人，不要过度沉迷代码，代码只是你赚钱的工具。
