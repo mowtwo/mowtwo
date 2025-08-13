@@ -1,5 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/3367cebf-d21a-4025-88bf-400a121c403b.svg)](https://wakatime.com/@3367cebf-d21a-4025-88bf-400a121c403b)
 
+<figure><embed src="https://wakatime.com/share/@Mowtwo/4af8020a-185d-4a1a-91f7-3ac94ffb362a.svg"></embed></figure>
+
 ### 中文版本
 
 #### 👋 你好，我是 Mowtwo（陈文程）！
