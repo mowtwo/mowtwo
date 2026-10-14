@@ -51,4 +51,8 @@ prompts) is open: **[m2-site-playbook](https://github.com/mowtwo/m2-site-playboo
 
 [![wakatime stats](https://wakatime.com/share/@Mowtwo/fb7367bf-74c1-4265-9eba-d29efc072a35.png)](https://wakatime.com/@3367cebf-d21a-4025-88bf-400a121c403b)
 
-<img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mowtwo/mowtwo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mowtwo/mowtwo/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mowtwo/mowtwo/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
