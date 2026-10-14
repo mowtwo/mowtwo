@@ -1,49 +1,54 @@
+<a href="https://mowtwo.com"><img src="https://mowtwo.com/og.png" alt="M2 — Chen Wencheng, AI Full-stack Engineer" width="100%" /></a>
+
+### 👋 Hi, I'm Mowtwo — 陈文程 Chen Wencheng (M2)
+
+Front-end-leaning **AI full-stack engineer**, 5+ years in. I build product frontends, Python / FastAPI backends,
+RAG & agent systems, async pipelines and the AWS / Terraform infra under them — with startup-speed ownership.
+
+偏前端的 **AI 全栈工程师**，五年以上经验：产品前端、Python / FastAPI 后端、RAG 与 Agent 系统、异步流水线，
+以及它们底下的 AWS / Terraform 基础设施——用创业公司的速度，对结果负责到底。
+
+**Now · 现在** — Senior Developer @ **[RankAI](https://rankai.ai)**, leading SEO / AEO (answer-engine optimization)
+engineering: Next.js SSR, structured data, and the systems that make content rank and get cited by AI.
+RankAI 高级开发，负责 SEO / AEO 工程。
+
+**New site · 新网站** — **[mowtwo.com](https://mowtwo.com)**: *LEVEL 2*, a six-act WebGL story where a robot evolves
+from medieval iron to future light. Built end to end by an AI agent — the full recipe (workflow, MCP tooling, skills,
+prompts) is open: **[m2-site-playbook](https://github.com/mowtwo/m2-site-playbook)**.
+一个由 AI Agent 从零做完的六幕 WebGL 叙事网站；全流程手册已开源。
+
+#### 🛠️ Featured · 代表作
+
+| Project | What it is |
+|---|---|
+| [**whatevertools**](https://github.com/mowtwo/whatevertools) · [site](https://whatevertools.mowtwo.com) | A plugin system for productivity software — one plugin runs in Electron apps, the web and your own platform. 效率软件的插件系统 |
+| [**tu (图)**](https://github.com/mowtwo/tu) · [playground](https://mowtwo.github.io/tu/) | A reactive UI language: trailing-closure DSL, scoped styles, TC39 Signals, full LSP. 一门响应式 UI 语言 |
+| [**mowtwo-next**](https://github.com/mowtwo/mowtwo-next) · [live](https://mowtwo.com) | The source of mowtwo.com — React Three Fiber, Blender assets, generative score, build-time SEO / GEO |
+| [**enterprise-context**](https://github.com/mowtwo/enterprise-context-web) | Local-first enterprise RAG demo — cited answers, retrieval debug, audit log (React + FastAPI + pgvector) |
+| [**giggle-lab**](https://github.com/mowtwo/giggle-lab) · [live](https://giggle-lab.vercel.app) | A playground of browser toys — Three.js / WebGL, AR gestures, media. 浏览器小玩具合集 |
+| [**quick-union-image**](https://github.com/mowtwo/utools-quick-union-image) · [**desktop-widgets**](https://github.com/mowtwo/utools-desktop-widgets) | uTools / Electron plugins — image stitching with AI workflows; a desktop "clothesline" for notes and files |
+
+#### 💻 Stack · 技术栈
+
+- **Frontend** — React · Next.js (App Router) · TypeScript · Tailwind · Canvas / WebGL · three.js / R3F · Electron · Uniapp / Taro
+- **Backend** — Python / FastAPI · asyncio · PostgreSQL · SQLAlchemy 2 · pgvector · Redis · SQS workers
+- **AI** — RAG / vector search · agent runtime · multi-model orchestration · metering · MCP
+- **Infra / SEO** — AWS (S3 / SQS / ECS) · Terraform · Cloudflare · GitHub Actions · SSG · structured data · Core Web Vitals
+
+#### 🌟 Highlights · 亮点
+
+- A product I built reached **#1 of the day on Product Hunt**. 开发的产品登上 Product Hunt 日榜第一。
+- Shipped a 2000+ page SSG marketing site with 90%+ SEO coverage and Lighthouse 98.
+- AI imaging pipelines for cross-border commerce: async generation on SQS / ECS, multi-model orchestration, Stripe metering.
+
+#### 📫 Contact · 联系
+
+[mowtwo.com](https://mowtwo.com) · mowtwo@foxmail.com ·
+[Product Hunt](https://www.producthunt.com/@wencheng_chen) ·
+[LinkedIn](https://www.linkedin.com/in/%E6%96%87%E7%A8%8B-%E9%99%88-b777a5368/)
+
 [![wakatime](https://wakatime.com/badge/user/3367cebf-d21a-4025-88bf-400a121c403b.svg)](https://wakatime.com/@3367cebf-d21a-4025-88bf-400a121c403b)
 
-[![wakatime](https://wakatime.com/share/@Mowtwo/fb7367bf-74c1-4265-9eba-d29efc072a35.png)](https://wakatime.com/share/@Mowtwo/fb7367bf-74c1-4265-9eba-d29efc072a35.png)
+[![wakatime stats](https://wakatime.com/share/@Mowtwo/fb7367bf-74c1-4265-9eba-d29efc072a35.png)](https://wakatime.com/@3367cebf-d21a-4025-88bf-400a121c403b)
 
-### 中文版本
-
-#### 👋 你好，我是 Mowtwo（陈文程）！
-
-我是一名偏向前端的全栈开发者，热衷于利用前沿技术打造创新的数字产品。每一次敲击键盘，都是我向科技前沿迈进的一步；每一行代码，都承载着我对完美产品的执着追求。
-
-#### 💻 技术栈
-- **前端框架**：我熟练掌握 Next.js，其强大的服务器端渲染和静态网站生成功能，让我能够高效地构建出高性能、可扩展的 Web 应用。同时，我也精通 Vue，它的响应式原理和组件化开发模式，使我能根据不同项目需求选用最合适的框架，快速迭代出用户体验极佳的前端界面。此外，我对 MUI 和 Tailwind CSS 也有深入的了解，MUI 的丰富组件库和优雅设计风格，Tailwind CSS 的原子化类名设计，都让我能够运用它们设计出美观、响应式且独具个性的用户界面。
-- **后端开发**：我擅长使用 Python 和 FastAPI 进行 API 开发。Python 的简洁易读和丰富的第三方库，配合 FastAPI 的高性能异步处理能力，让我能够搭建稳定、高效的后端服务。扎实的 TypeScript 技能，让我在开发过程中可以进行类型检查，保证代码的健壮性和可维护性，大大减少了后期的调试成本。
-- **跨平台开发**：我熟悉 Electron，利用它我能够将 Web 技术应用到桌面端，开发出跨平台的桌面应用，为用户提供一致的使用体验。对于中国特有的技术栈，我也有丰富的经验，比如微信小程序开发，从界面设计到逻辑实现，我都能游刃有余；uni-app 和 Taro 的多端开发能力，让我可以轻松实现一次开发，多平台部署，节省了大量的开发时间和成本。
-- **大语言模型（LLM）**：我专注于 LLM 相关的应用开发，紧跟人工智能领域的发展趋势。我不断研究和实践如何将先进的语言模型技术融入到实际项目中，如智能客服、内容生成等，为产品赋予更智能的交互体验。
-
-#### 🌟 项目成就
-我开发的产品曾登上 Product Hunt 日榜第一，这不仅是对我技术能力的肯定，更是激励我不断追求卓越的动力。那一刻，我深刻体会到了科技的魅力和开发者的价值，也更加坚定了我在这个领域继续探索的决心。
-
-#### 📫 联系我
-如果你对我的项目感兴趣，或者有合作意向，欢迎通过以下方式联系我：
-- 邮箱：mowtwo@foxmail.com
-- Product Hunt：https://www.producthunt.com/@wencheng_chen
-- LinkedIn：https://www.linkedin.com/in/%E6%96%87%E7%A8%8B-%E9%99%88-b777a5368/
-
-期待与你一起创造更多精彩！
-
-### English Version
-
-#### 👋 Hello, I'm Mowtwo (Wencheng Chen)!
-
-I'm a front-end-oriented full-stack developer, passionate about leveraging cutting-edge technologies to build innovative digital products. Every keystroke is a step forward to the forefront of technology; every line of code bears my dedication to perfect products.
-
-#### 💻 Tech Stack
-- **Front-end Frameworks**: I'm proficient in Next.js. Its powerful server-side rendering and static site generation capabilities allow me to efficiently build high-performance and scalable web applications. I'm also well - versed in Vue. Its reactive principle and component - based development model enable me to choose the most suitable framework according to different project requirements and quickly iterate front - end interfaces with excellent user experiences. Moreover, I have an in - depth understanding of MUI and Tailwind CSS. MUI's rich component library and elegant design style, along with Tailwind CSS's atomic class - name design, enable me to design beautiful, responsive, and unique user interfaces.
-- **Back - end Development**: I'm skilled in using Python and FastAPI for API development. Python's simplicity, readability, and rich third - party libraries, combined with FastAPI's high - performance asynchronous processing capabilities, allow me to build stable and efficient back - end services. My solid TypeScript skills enable me to perform type checking during development, ensuring the robustness and maintainability of the code and significantly reducing the later debugging cost.
-- **Cross - platform Development**: I'm familiar with Electron. By using it, I can apply web technologies to the desktop and develop cross - platform desktop applications, providing users with a consistent experience. I also have rich experience in Chinese - specific technology stacks, such as WeChat Mini - program development. I can handle everything from interface design to logic implementation with ease. The multi - platform development capabilities of uni - app and Taro allow me to easily achieve one - time development and multi - platform deployment, saving a lot of development time and cost.
-- **Large Language Models (LLM)**: I focus on LLM - related application development and keep up with the development trends in the field of artificial intelligence. I'm constantly researching and practicing how to integrate advanced language model technologies into practical projects, such as intelligent customer service and content generation, to endow products with more intelligent interaction experiences.
-
-#### 🌟 Project Achievements
-One of the products I developed reached the top of the Product Hunt daily list. This is not only an affirmation of my technical ability but also a motivation for me to continuously pursue excellence. At that moment, I deeply felt the charm of technology and the value of developers, and I became more determined to continue exploring in this field.
-
-#### 📫 Contact Me
-If you're interested in my projects or have a cooperation intention, feel free to contact me through the following methods:
-- Email: mowtwo@foxmail.com
-- Product Hunt: https://www.producthunt.com/@wencheng_chen
-- LinkedIn: https://www.linkedin.com/in/%E6%96%87%E7%A8%8B-%E9%99%88-b777a5368/
-
-Looking forward to creating more amazing things with you!
+<img src="./assets/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
